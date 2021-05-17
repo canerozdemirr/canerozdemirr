@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## My Daily Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{canerozdemirr}/count.svg)
