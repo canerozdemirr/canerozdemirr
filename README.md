@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=canerozdemirr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## My Daily Visitors
-![Visitor Count](https://profile-counter.glitch.me/{canerozdemirr}/count.svg)
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
