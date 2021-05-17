@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 ## My Daily Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{canerozdemirr}/count.svg)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
