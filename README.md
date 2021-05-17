@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Caner Özdemir!
+## Hi there 👋 I'm Caner Özdemir!
 
 <!--
 **canerozdemirr/canerozdemirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=canerozdemirr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ ### My Profile Stats!
+
+![Caner's github stats](https://github-readme-stats.vercel.app/api?username=canerozdemirr)
