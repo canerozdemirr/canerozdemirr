@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/canerozdemirrryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=canerozdemirr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Daily Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{canerozdemirr}/count.svg)
